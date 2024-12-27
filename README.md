@@ -90,10 +90,9 @@ The algorithm will output the reconstructed signal `xhat` and the **Normalized M
 
 ## Files
 
-- **`gen_data.m`**: Function to generate synthetic data, including measurement matrices and noisy observations.
+- **`main.m`**: Demo used to show the reconstruction performance of PLAY-CS on a synthetic channel dataset.
 - **`play_cs.m`**: The main implementation of the PLAY-CS algorithm.
-- **`Algorithms/`**: Contains the core algorithm implementations.
-- **`utils/`**: Contains utility functions for data processing and visualization.
+- **`gen_data.m`**: Function to generate synthetic data, including measurement matrices and noisy observations.
 - **`data/`**: Synthetic data used for testing (e.g., `synthetic_data.mat`).
 
 ## Contact
