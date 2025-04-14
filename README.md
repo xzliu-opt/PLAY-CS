@@ -21,7 +21,9 @@ The **PLAY-CS** algorithm is used to recover sparse signals from compressed meas
 ### Paper Information
 - **Title**: A Unified Algorithmic Framework for Dynamic Compressive Sensing
 - **Authors**: Xiaozhi Liu, Yong Xia
-- **Arxiv Link**: [https://arxiv.org/abs/2310.07202](https://arxiv.org/abs/2310.07202)
+- **Journal**: *Signal Processing*, Volume 232, July 2025, Article 109926
+- **DOI**: [https://doi.org/10.1016/j.sigpro.2025.109926](https://doi.org/10.1016/j.sigpro.2025.109926)
+- **arXiv**: [https://arxiv.org/abs/2310.07202](https://arxiv.org/abs/2310.07202)
 
 ## Requirements
 
